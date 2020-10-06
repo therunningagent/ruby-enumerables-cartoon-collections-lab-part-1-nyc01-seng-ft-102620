@@ -15,3 +15,5 @@ def list_dwarves(array)
   array.each_with_index(1) { |name, index| puts "#{index}. #{name}"}
   
 end 
+  
+end 
